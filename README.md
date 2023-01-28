@@ -1,16 +1,29 @@
+<link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
+      integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc"
+      crossorigin="anonymous"
+    />
+
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Jayden
-  <a href="jayden-lee.me" target="_blank">jayden-lee.me</a>
-  <a href="**jayden04lee@gmail.com**" target="_blank">Email</a>
+<h1 align="center">Hi 👋 I'm Jayden
+    <br>
+ <h2 align="center">
+   <a href="jayden-lee.me" target="_blank">Website</a> |
+  <a href="https://linkedin.com/in/jayden-lee-me" target="blank">Linkedin</a> |
+  <a href="**jayden04lee@gmail.com**" target="_blank">Email</a> |
   <a href="https://jayden-lee.me/Resume.pdf" target="_blank">Resume</a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jayd-lee&label=Profile%20views&color=0e75b6&style=flat" alt="jayd-lee" /> </p>
+  </h2>
 </h1>
 
-<h3 align="center">An Ambitious Software Developer and Data Scientist</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayden-lee-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayden-lee-me" height="30" width="40" /></a>
+<h3 align="center">Software Developer and Data Scientist</h3>
+
+
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
