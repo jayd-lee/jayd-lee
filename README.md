@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋 I'm Jayden
     <br>
  <h2 align="center">
-   <a href="jayden-lee.me" target="_blank">Website</a> |
+   <a href="http://jayden-lee.me" target="_blank">Website</a> |
   <a href="https://linkedin.com/in/jayden-lee-me" target="_blank">Linkedin</a> |
   <a href="**jayden04lee@gmail.com**" target="_blank">Email</a> |
   <a href="https://jayden-lee.me/Resume.pdf" target="_blank">Resume</a>
